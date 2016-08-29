@@ -142,11 +142,11 @@ user1.fellow_coders
 
 
 ## Challenges:  
-##### [Metropolis](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/02_object_orientation_pt2/code/01_metropolis)
-##### [Rock-Paper-Scissors](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/02_object_orientation_pt2/code/02_rps)  
+##### [Metropolis](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/02_object_orientation_pt2/code/01_metropolis)
+##### [Rock-Paper-Scissors](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/02_object_orientation_pt2/code/02_rps)  
 
 ## Navigation  
-##### Next lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/03_challenges)    
-##### Previous lesson: [Intro to OOP Pt. 1](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/01_object_orientation_pt1) 
+##### Next lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/03_challenges)    
+##### Previous lesson: [Intro to OOP Pt. 1](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/01_object_orientation_pt1) 
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)  

@@ -15,5 +15,5 @@ let(:student) {Coder.new("Albert Einstien")}
 `student` will be passed in as an object argument for the RSpec tests. There can be multiple `let` keywords pre-defining multiple objects in an RSpec file.  
 
 ## Navigation  
-##### Next challenge: [Nemo and Friends](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/01_object_orientation_pt1/code/02_nemo_and_friends)
-##### Back to lesson: [Intro to OOP Pt. 1](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/01_object_orientation_pt1)    
+##### Next challenge: [Nemo and Friends](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/01_object_orientation_pt1/code/02_nemo_and_friends)
+##### Back to lesson: [Intro to OOP Pt. 1](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/01_object_orientation_pt1)    

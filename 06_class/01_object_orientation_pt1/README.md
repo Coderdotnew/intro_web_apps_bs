@@ -292,11 +292,11 @@ student1.return_languages
 
 
 ## Challenges:  
-##### [Avengers](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/01_object_orientation_pt1/code/01_avengers)
-##### [Nemo and Friends](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/01_object_orientation_pt1/code/02_nemo_and_friends)
-##### [Hogwarts Houses](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/01_object_orientation_pt1/code/03_hogwarts_houses)  
+##### [Avengers](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/01_object_orientation_pt1/code/01_avengers)
+##### [Nemo and Friends](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/01_object_orientation_pt1/code/02_nemo_and_friends)
+##### [Hogwarts Houses](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/01_object_orientation_pt1/code/03_hogwarts_houses)  
 
 ## Navigation  
-##### Next lesson: [Intro to OOP Pt. 2](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/02_object_orientation_pt2)  
+##### Next lesson: [Intro to OOP Pt. 2](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/02_object_orientation_pt2)  
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   

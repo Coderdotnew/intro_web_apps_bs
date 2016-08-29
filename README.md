@@ -23,24 +23,24 @@ The more you learn in this course, the more you will realize you don't know. Be 
 
 
 # Navigation  
-#### Go to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/01_class)
+#### Go to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/01_class)
 
 
 # Course Directory       
 | Lesson | Repository                                                                                                     |
 |--------|:---------------------------------------------------------------------------------------------------------------|
-| 01     | [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/01_class)                 | 
-| 02     | [Methods](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class)                              |
-| 03     | [Control Flow](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class)                         |
-| 04     | [Loops](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class)                                | 
-| 05     | [Arrays](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class)                               | 
-| 06     | [Object-Oriented Programming I](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class)        | 
-| 07     | [Object-Oriented Programming II](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/07_class)       | 
-| 08     | [HTML and CSS](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/08_class)                         | 
-| 09     | [Model-View-Controller](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/09_class)                | 
-| 10     | [Final MVC Project and APIs](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/10_class)           | 
-| 11     | [Project Build](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/11_class)                        | 
-| 12     | [Project Build and Deploy](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/12_class)             | 
+| 01     | [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/01_class)                 | 
+| 02     | [Methods](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class)                              |
+| 03     | [Control Flow](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class)                         |
+| 04     | [Loops](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class)                                | 
+| 05     | [Arrays](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class)                               | 
+| 06     | [Object-Oriented Programming I](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class)        | 
+| 07     | [Object-Oriented Programming II](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/07_class)       | 
+| 08     | [HTML and CSS](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/08_class)                         | 
+| 09     | [Model-View-Controller](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/09_class)                | 
+| 10     | [Final MVC Project and APIs](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/10_class)           | 
+| 11     | [Project Build](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/11_class)                        | 
+| 12     | [Project Build and Deploy](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/12_class)             | 
 
 
 # Tutorials  

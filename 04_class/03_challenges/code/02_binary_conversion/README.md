@@ -36,5 +36,5 @@ Write your code in the `binary.rb` file. You should be able to successfully conv
 
 
 ## Navigation  
-##### Next class: [Arrays](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class)  
-##### Back to lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/03_challenges)   
+##### Next class: [Arrays](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class)  
+##### Back to lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/03_challenges)   

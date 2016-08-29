@@ -28,8 +28,8 @@ Feel free to add functions to your calculator once you have an MVP
 
 
 ## Navigation  
-##### Next lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/04_challenges)    
-##### Previous lesson: [Multi-Branch Conditionals](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/02_multiple_branches)  
-##### Back to: [Control Flow](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class)  
+##### Next lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/04_challenges)    
+##### Previous lesson: [Multi-Branch Conditionals](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/02_multiple_branches)  
+##### Back to: [Control Flow](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class)  
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)     
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)     

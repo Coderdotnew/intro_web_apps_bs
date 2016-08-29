@@ -48,7 +48,7 @@ Strings are important in Ruby. We know that Ruby doesn't really understand what 
 
 
 ## Navigation  
-##### Next class: [Methods](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class)      
-##### Back to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/01_class)
+##### Next class: [Methods](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class)      
+##### Back to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/01_class)
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)  

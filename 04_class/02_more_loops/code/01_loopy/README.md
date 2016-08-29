@@ -17,5 +17,5 @@ Each loop should output the following to the Terminal screen when `rspec` is run
 ```
 
 ## Navigation   
-##### Next challenge: [Netflix Binge](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/02_more_loops/code/02_netflix_binge)
-##### Back to lesson: [More Loops](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/02_more_loops)          
+##### Next challenge: [Netflix Binge](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/02_more_loops/code/02_netflix_binge)
+##### Back to lesson: [More Loops](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/02_more_loops)          

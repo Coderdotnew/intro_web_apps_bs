@@ -126,8 +126,8 @@ This code along will build on the skills we just learned. Let's open IRB.
 
 
 ## Navigation  
-##### Next lesson: [String Methods](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/01_class/04_string_methods)     
-##### Back to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/01_class)
+##### Next lesson: [String Methods](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/01_class/04_string_methods)     
+##### Back to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/01_class)
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)  
 

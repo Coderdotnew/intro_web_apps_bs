@@ -100,12 +100,12 @@ puts personal_greeting("Bill Gates")
 
 
 ## Challenges  
-##### [Math Conditionals](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/01_conditionals/code/01_math_conditionals)
-##### [Palindromes](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/01_conditionals/code/02_palindromes)
-##### [Concert Convos pt. 2](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/01_conditionals/code/03_concert_convos_pt2)  
+##### [Math Conditionals](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/01_conditionals/code/01_math_conditionals)
+##### [Palindromes](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/01_conditionals/code/02_palindromes)
+##### [Concert Convos pt. 2](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/01_conditionals/code/03_concert_convos_pt2)  
 
 ## Navigation  
-##### Next lesson: [Multi-Branch Conditionals](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/02_multiple_branches) 
-##### Back to: [Control Flow](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class)  
+##### Next lesson: [Multi-Branch Conditionals](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/02_multiple_branches) 
+##### Back to: [Control Flow](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class)  
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   

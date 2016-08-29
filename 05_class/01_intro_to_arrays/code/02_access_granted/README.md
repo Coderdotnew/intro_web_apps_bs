@@ -17,5 +17,5 @@ first_num
 When writing your array methods, refer to the global variable names and be sure to include the `$` in the variable name when calling it (Note: Do not alter the arrays in the `access_granted.rb` file.)  
 
 ## Navigation  
-##### Next challenge: [Pop and Push](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/01_intro_to_arrays/code/03_pop_n_push)
-##### Back to lesson: [Intro to Arrays](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/01_intro_to_arrays)  
+##### Next challenge: [Pop and Push](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/01_intro_to_arrays/code/03_pop_n_push)
+##### Back to lesson: [Intro to Arrays](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/01_intro_to_arrays)  

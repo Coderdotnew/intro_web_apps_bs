@@ -65,7 +65,7 @@ This can easily be itegrated into an MVC application:
 
 
 ## Navigation  
-##### Next class: [Application Build and Deploy](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/12_class) 
-##### Previous lesson: [Giphy Tutorial](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/11_class/02_giphy)   
+##### Next class: [Application Build and Deploy](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/12_class) 
+##### Previous lesson: [Giphy Tutorial](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/11_class/02_giphy)   
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   

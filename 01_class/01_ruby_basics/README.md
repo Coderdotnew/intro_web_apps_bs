@@ -152,8 +152,8 @@ Remember, to run a Ruby file, enter `ruby file_name.rb` in the command line (not
 You *must* be in the directory that contains the Ruby file, or your Terminal will be unaware the file exists. Check out the [Bash Tutorial](https://github.com/Coderdotnew/bash) to brush up on your commands and the [Running Ruby Files Tutorial](https://github.com/Coderdotnew/ruby_files) to remind yourself how to run the file!
 
 ## Navigation  
-##### Next lesson: [Data Types](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/01_class/02_data_types)  
-##### Back to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/01_class)
+##### Next lesson: [Data Types](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/01_class/02_data_types)  
+##### Back to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/01_class)
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)  
 

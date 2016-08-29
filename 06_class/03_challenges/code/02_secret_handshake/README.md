@@ -15,5 +15,5 @@ The Secret Handshake for `"1011"` is `"high five fist bump jump spin"` (Notice t
 ![1](http://i.imgur.com/vK2NJTB.gif)  
 
 ## Navigation  
-##### Next class: [Object-Oriented Programming II](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/07_class)  
-##### Back to lesson: [Intro to OOP Pt. 2](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/02_object_orientation_pt2)
+##### Next class: [Object-Oriented Programming II](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/07_class)  
+##### Back to lesson: [Intro to OOP Pt. 2](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/02_object_orientation_pt2)

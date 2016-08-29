@@ -31,10 +31,10 @@ By now, you've read a lot of RSpec files. You should have a feel for the syntax,
 
 
 ## Challenge:  
-##### [OOP Project](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/07_class/02_OOP_project/code/01_OOP_project)  
+##### [OOP Project](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/07_class/02_OOP_project/code/01_OOP_project)  
 
 ## Navigation  
-##### Next lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/07_class/03_challenges)     
-##### Previous lesson: [Convert to OOP](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/07_class/01_convert_to_OOP)
+##### Next lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/07_class/03_challenges)     
+##### Previous lesson: [Convert to OOP](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/07_class/01_convert_to_OOP)
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)  

@@ -32,8 +32,8 @@ Collaborate with your team as much as possible and feel free to refer to any res
 ![2](http://i.imgur.com/fV4EyMA.gif)  
 
 ## Navigation  
-##### Next class: [Project Build and Hashes](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/10_class)
-##### Previous lesson: [Web Application](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/09_class/03_web_application)  
+##### Next class: [Project Build and Hashes](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/10_class)
+##### Previous lesson: [Web Application](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/09_class/03_web_application)  
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)
 

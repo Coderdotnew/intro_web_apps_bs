@@ -4,5 +4,5 @@ Guys, Leo finally won an Oscar! Use multi-branch conditionals to write two metho
 ![1](http://i.imgur.com/IRjOrvW.gif)    
 
 ## Navigation  
-##### Next challenge: [FizzBuzz](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/02_multiple_branches/code/02_fizzbuzz)     
-##### Back to lesson: [Multi-Branch Conditionals](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/02_multiple_branches)   
+##### Next challenge: [FizzBuzz](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/02_multiple_branches/code/02_fizzbuzz)     
+##### Back to lesson: [Multi-Branch Conditionals](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/02_multiple_branches)   

@@ -9,5 +9,5 @@ A single email, or multiple emails separated by a comma can be passed in (CSV, o
 
 
 ## Navigation  
-##### Next class: [HTML and CSS](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/08_class)  
-##### Back to lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/07_class/03_challenges)  
+##### Next class: [HTML and CSS](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/08_class)  
+##### Back to lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/07_class/03_challenges)  

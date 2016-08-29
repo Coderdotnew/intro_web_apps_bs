@@ -22,5 +22,5 @@ infinite_loop
 - If you are brave, open up IRB (command: `irb`) and copy and paste the above code and press enter...
 
 ## Navigation  
-##### Next challenge: [Binary Conversion](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/03_challenges/code/02_binary_conversion)  
-##### Back to lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/03_challenges)   
+##### Next challenge: [Binary Conversion](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/03_challenges/code/02_binary_conversion)  
+##### Back to lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/03_challenges)   

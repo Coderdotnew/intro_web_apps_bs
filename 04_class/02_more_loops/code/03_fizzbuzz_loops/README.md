@@ -28,5 +28,5 @@ You should see the following output on your Terminal screen if 16 is passed in a
 ```
 
 ## Navigation   
-##### Next lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/03_challenges)  
-##### Back to lesson: [More Loops](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/02_more_loops)          
+##### Next lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/03_challenges)  
+##### Back to lesson: [More Loops](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/02_more_loops)          

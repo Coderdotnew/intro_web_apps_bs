@@ -113,17 +113,17 @@ example_method(arg1, arg2) # call method with arguments here
 
 
 ## Challenges    
-##### [Method Math](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/03_method_arguments/code/01_method_math)  
-##### [Annoying Little Brother](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/03_method_arguments/code/02_annoying_little_brother)    
-##### [Subway Ride](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/03_method_arguments/code/03_subway_ride)      
-##### [Concert Convos pt. 1](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/03_method_arguments/code/04_concert_convos_pt1)    
+##### [Method Math](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/03_method_arguments/code/01_method_math)  
+##### [Annoying Little Brother](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/03_method_arguments/code/02_annoying_little_brother)    
+##### [Subway Ride](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/03_method_arguments/code/03_subway_ride)      
+##### [Concert Convos pt. 1](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/03_method_arguments/code/04_concert_convos_pt1)    
 
 ## Navigation  
-##### Next lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/04_challenges)   
-##### Previous lesson: [Variables](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/02_variables)    
-##### Back to: [Methods](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class) 
+##### Next lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/04_challenges)   
+##### Previous lesson: [Variables](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/02_variables)    
+##### Back to: [Methods](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class) 
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)  
  
 
 

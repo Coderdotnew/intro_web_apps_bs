@@ -4,5 +4,5 @@ Use the method templates in `greetings_earthlings.rb` and the `greetings_earthli
 ![1](http://i.imgur.com/oewbTxj.gif)  
 
 ## Navigation  
-##### Next challenge: [Roadtrip](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/01_intro_to_methods/code/03_roadtrip)  
-##### Back to lesson: [Intro to Methods](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/01_intro_to_methods)   
+##### Next challenge: [Roadtrip](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/01_intro_to_methods/code/03_roadtrip)  
+##### Back to lesson: [Intro to Methods](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/01_intro_to_methods)   

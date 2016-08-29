@@ -9,5 +9,5 @@ If you run `rspec` it will check each Ruby file against each RSpec file. You may
 ![1](http://i.imgur.com/3JNmWzz.gif)  
 
 ## Navigation  
-##### Next challenge: [Hogwarts Houses](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/01_object_orientation_pt1/code/03_hogwarts_houses)   
-##### Back to lesson: [Intro to OOP Pt. 1](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/01_object_orientation_pt1)      
+##### Next challenge: [Hogwarts Houses](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/01_object_orientation_pt1/code/03_hogwarts_houses)   
+##### Back to lesson: [Intro to OOP Pt. 1](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/01_object_orientation_pt1)      

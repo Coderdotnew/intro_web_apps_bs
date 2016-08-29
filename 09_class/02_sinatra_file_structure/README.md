@@ -53,7 +53,7 @@ The `gemfile` is a file where we tell Sinatra what Ruby **gems** we hope to call
 ![1](http://i.imgur.com/Fad4wwb.gif)     
 
 ## Navigation  
-##### Next lesson: [Web Application](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/09_class/03_web_application)   
-##### Previous lesson: [Intro to MVC](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/09_class/01_mvc_intro)  
+##### Next lesson: [Web Application](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/09_class/03_web_application)   
+##### Previous lesson: [Intro to MVC](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/09_class/01_mvc_intro)  
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   

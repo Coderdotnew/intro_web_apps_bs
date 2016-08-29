@@ -44,7 +44,7 @@ The most important step is step 1. A simple functioning app is better than a bro
 # advanced_features
 #### API's  
 - Some apps may want to incorporate an API, such as weather, Giphy, or Twilio. 
-- More information can be found in the [Coder.new API README Guides](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/11_class/APIs) 
+- More information can be found in the [Coder.new API README Guides](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/11_class/APIs) 
 
 #### JavaScript  
 - Almost all applications today incorporate JavaScript. A computer programming language that makes webpages interactive and animated. While **HTML** adds the content of the webpage and **CSS** styles the content, **JavaScript** makes this material more interactive. You may have seen a logo move across the page, or a web application that has *autoscroll*, or *carousel* that slides images across a webpage. This is all thanks to JavaScript!  
@@ -58,7 +58,7 @@ The most important step is step 1. A simple functioning app is better than a bro
 #### Note: The next 3 lessons focus on hashes, a multi-dimensional datastructure that is *optional*. If you hope to use an API, it is *highly* recommended you read through the Hashes lessons.
 
 ## Navigation  
-##### Next lesson: [Intro to Hashes](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/10_class/02_intro_to_hashes) 
+##### Next lesson: [Intro to Hashes](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/10_class/02_intro_to_hashes) 
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   
 

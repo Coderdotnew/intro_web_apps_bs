@@ -8,5 +8,5 @@ A **CSV** file, or comma separated values file, is a common formatted text file 
 ![1](http://i.imgur.com/E4vs1P8.gif)  
 
 ## Navigation  
-##### Next challenge: [Caesar Cipher](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/03_challenges/code/03_caesar_cipher)
-##### Back to lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/03_challenges)  
+##### Next challenge: [Caesar Cipher](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/03_challenges/code/03_caesar_cipher)
+##### Back to lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/03_challenges)  

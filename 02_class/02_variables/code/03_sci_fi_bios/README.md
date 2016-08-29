@@ -17,6 +17,6 @@ Your job is to fill out the bios of several storied Sci-Fi heroes when prompted 
 - profession: Ring Bearer  
 
 ## Navigation   
-##### Next lesson: [Method Arguments](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/03_method_arguments)   
-##### Back to lesson: [Variables](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/02_variables)
+##### Next lesson: [Method Arguments](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/03_method_arguments)   
+##### Back to lesson: [Variables](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/02_variables)
 

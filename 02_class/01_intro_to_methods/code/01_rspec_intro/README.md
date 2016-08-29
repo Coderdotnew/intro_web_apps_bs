@@ -5,5 +5,5 @@ Follow the commented instructions in `rspec_intro.rb`. Each method is written fo
 
 
 ## Navigation  
-##### Next challenge: [Greetings Earthlings](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/01_intro_to_methods/code/02_greetings_earthlings)  
-##### Back to lesson: [Intro to Methods](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class) 
+##### Next challenge: [Greetings Earthlings](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/01_intro_to_methods/code/02_greetings_earthlings)  
+##### Back to lesson: [Intro to Methods](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class) 

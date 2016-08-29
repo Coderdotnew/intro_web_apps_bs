@@ -68,5 +68,5 @@ $fourth_school = {
 - If that's still confusing where those hashes came from, head over to [NYC SAT Data](https://data.cityofnewyork.us/resource/f9bf-2cp4.json) to check out the entire data structure for yourself. 
 
 ## Navigation  
-##### Next class: [Application Build and APIs](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/11_class)  
-##### Back to lesson: [Hash Enumerables](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/02_array_enumerables)   
+##### Next class: [Application Build and APIs](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/11_class)  
+##### Back to lesson: [Hash Enumerables](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/02_array_enumerables)   

@@ -5,5 +5,5 @@ Follow the commented instructions in `all_about_you.rb`. There is no RSpec file 
 
 
 ## Navigation  
-##### Next challenge: [Scope Errors](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/02_variables/code/02_scope_errors)   
-##### Back to lesson: [Variables](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/02_variables)
+##### Next challenge: [Scope Errors](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/02_variables/code/02_scope_errors)   
+##### Back to lesson: [Variables](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/02_variables)

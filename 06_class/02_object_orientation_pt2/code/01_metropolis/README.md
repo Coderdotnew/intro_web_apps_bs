@@ -3,5 +3,5 @@ Define a `Metropolis` class for Superman. Follow the RSpec to determine what spe
 
   
 ## Navigation  
-##### Next challenge: [Rock-Paper-Scissors](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/02_object_orientation_pt2/code/02_rps)   
-##### Back to lesson: [Intro to OOP Pt. 2](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/02_object_orientation_pt2)
+##### Next challenge: [Rock-Paper-Scissors](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/02_object_orientation_pt2/code/02_rps)   
+##### Back to lesson: [Intro to OOP Pt. 2](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/02_object_orientation_pt2)

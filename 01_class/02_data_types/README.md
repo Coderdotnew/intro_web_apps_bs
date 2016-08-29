@@ -159,8 +159,8 @@ Open IRB. Make the following 3 lines of code run without error in your IRB
 
 
 ## Navigation  
-##### Next lesson: [Ruby Math](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/01_class/03_ruby_math)    
-##### Back to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/01_class)
+##### Next lesson: [Ruby Math](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/01_class/03_ruby_math)    
+##### Back to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/01_class)
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)  
 

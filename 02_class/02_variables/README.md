@@ -202,14 +202,14 @@ my_favorites
 
 
 ## Challenges    
-##### [All About You](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/02_variables/code/01_all_about_you)  
-##### [Scope Errors](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/02_variables/code/02_scope_errors)  
-##### [Sci-Fi Bios](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/02_variables/code/03_sci_fi_bios)   
+##### [All About You](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/02_variables/code/01_all_about_you)  
+##### [Scope Errors](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/02_variables/code/02_scope_errors)  
+##### [Sci-Fi Bios](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/02_variables/code/03_sci_fi_bios)   
 
 ## Navigation  
-##### Next lesson: [Method Arguments](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/03_method_arguments)   
-##### Previous lesson: [Intro to Methods](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class/01_intro_to_methods)   
-##### Back to: [Methods](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/02_class) 
+##### Next lesson: [Method Arguments](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/03_method_arguments)   
+##### Previous lesson: [Intro to Methods](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class/01_intro_to_methods)   
+##### Back to: [Methods](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/02_class) 
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)  
 

@@ -135,7 +135,7 @@ end
 
 
 ## Navigation  
-##### Next lesson: [Giphy Tutorial](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/11_class/02_giphy)  
-##### Back to: [Application Build and API's](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/11_class)    
+##### Next lesson: [Giphy Tutorial](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/11_class/02_giphy)  
+##### Back to: [Application Build and API's](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/11_class)    
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   

@@ -13,5 +13,5 @@ Your should see the following output upon running `rspec`.
 ```
 
 ## Navigation   
-##### Next lesson: [More Loops](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/02_more_loops)       
-##### Back to lesson: [Intro to Loops](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/01_loops_intro)     
+##### Next lesson: [More Loops](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/02_more_loops)       
+##### Back to lesson: [Intro to Loops](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/01_loops_intro)     

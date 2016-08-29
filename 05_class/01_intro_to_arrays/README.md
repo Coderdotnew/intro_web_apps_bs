@@ -131,11 +131,11 @@ Note: Sometimes, strings have multiple words and you might want to access just o
 
 
 ## Challenges  
-##### [Array Methods](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/01_intro_to_arrays/code/01_array_methods)
-##### [Access Granted](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/01_intro_to_arrays/code/02_access_granted)
-##### [Pop and Push](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/01_intro_to_arrays/code/03_pop_n_push)
+##### [Array Methods](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/01_intro_to_arrays/code/01_array_methods)
+##### [Access Granted](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/01_intro_to_arrays/code/02_access_granted)
+##### [Pop and Push](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/01_intro_to_arrays/code/03_pop_n_push)
 
 ## Navigation  
-##### Next lesson: [Array Enumerables](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/02_array_enumerables) 
+##### Next lesson: [Array Enumerables](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/02_array_enumerables) 
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   

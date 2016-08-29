@@ -1,7 +1,7 @@
 # intro_to_hashes
 Just like arrays, **hashes** are also data structures. However, hashes are more complex and allow us to better organize and structure our information.  
 
-API's organize their public data using **JSON** (JavaScript Object Notation) format which is *very similar* to a hash. JSON is better described in the [API Tutorial](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/11_class/APIs)
+API's organize their public data using **JSON** (JavaScript Object Notation) format which is *very similar* to a hash. JSON is better described in the [API Tutorial](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/11_class/APIs)
 
 # key_and_value
 The structure of a hash is slightly different than arrays. Hashes are used when you want to assign a specific value to a group of items. For instance, assigning a birthday to a person, a capital to a state, an address to a person's name. You can think of this like having an array with 2 columns, where the 2nd column is attached to the first and gives a little more details. First, let's look at an empty hash.
@@ -102,14 +102,14 @@ Just like arrays, there are specific methods that can be applied to hashes. We h
 
 
 ## Challenges  
-##### [Hash Intro](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/10_class/02_intro_to_hashes/code/01_hash_intro)
-##### [Hash Attack](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/10_class/02_intro_to_hashes/code/02_hash_attack)
+##### [Hash Intro](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/10_class/02_intro_to_hashes/code/01_hash_intro)
+##### [Hash Attack](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/10_class/02_intro_to_hashes/code/02_hash_attack)
 
 ## Navigation  
-##### Next lesson: [Hash Enumerables](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/10_class/03_hash_enumerables)      
-##### Previous lesson: [MVC Application](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/10_class/01_mvc_application) 
+##### Next lesson: [Hash Enumerables](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/10_class/03_hash_enumerables)      
+##### Previous lesson: [MVC Application](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/10_class/01_mvc_application) 
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   
 
 
 

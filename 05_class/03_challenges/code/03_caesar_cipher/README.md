@@ -19,5 +19,5 @@ For example, calling `caesar_encrypt(3, "Ruby")` will return `"Uxeb"`.
 + How the Caesar Cipher was Cracked: https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher
 
 ## Navigation  
-##### Next class: [Object-Oriented Programming I](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class)     
-##### Back to lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/03_challenges)   
+##### Next class: [Object-Oriented Programming I](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class)     
+##### Back to lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/03_challenges)   

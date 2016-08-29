@@ -23,7 +23,7 @@ We will use **Sinatra** as our MVC framework. Remember, because MVC is more of a
 #### Guess which part of the MVC design this is? **#views**
 
 ## Navigation  
-##### Next lesson: [Sinatra File Structure](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/09_class/02_sinatra_file_structure) 
-#### Back to: [Model-View-Controller](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/09_class)  
+##### Next lesson: [Sinatra File Structure](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/09_class/02_sinatra_file_structure) 
+#### Back to: [Model-View-Controller](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/09_class)  
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   

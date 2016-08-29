@@ -117,12 +117,12 @@ Now, let's check out the `.join` method
 
 
 ## Challenges    
-##### [Prime Numbers](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/03_challenges/code/01_prime)
-##### [Emails](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/03_challenges/code/02_emails)  
-##### [Caesar Cipher](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/03_challenges/code/03_caesar_cipher)
+##### [Prime Numbers](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/03_challenges/code/01_prime)
+##### [Emails](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/03_challenges/code/02_emails)  
+##### [Caesar Cipher](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/03_challenges/code/03_caesar_cipher)
 
 ## Navigation  
-##### Next class: [Object-Oriented Programming I](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class)    
-##### Previous lesson: [Array Enumerables](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/05_class/02_array_enumerables) 
+##### Next class: [Object-Oriented Programming I](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class)    
+##### Previous lesson: [Array Enumerables](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/05_class/02_array_enumerables) 
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   

@@ -405,8 +405,8 @@ Our first job is to access our object in this view. This means we need the embed
 ![6](http://i.imgur.com/Zo0CCLP.gif)  
 
 ## Navigation  
-##### Next lesson: [Convert to MVC](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/09_class/04_convert_to_mvc)  
-##### Previous lesson: [Sinatra File Structure](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/09_class/02_sinatra_file_structure) 
+##### Next lesson: [Convert to MVC](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/09_class/04_convert_to_mvc)  
+##### Previous lesson: [Sinatra File Structure](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/09_class/02_sinatra_file_structure) 
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)
 

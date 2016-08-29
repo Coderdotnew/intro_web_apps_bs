@@ -6,5 +6,5 @@ Remember, *instance variables* have a greater scope than local variables and can
 ![1](http://i.imgur.com/nFmTBwC.gif)  
 
 ## Navigation  
-##### Next lesson: [Intro to OOP Pt. 2](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/02_object_orientation_pt2)
-##### Back to lesson: [Intro to OOP Pt. 1](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/06_class/01_object_orientation_pt1)    
+##### Next lesson: [Intro to OOP Pt. 2](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/02_object_orientation_pt2)
+##### Back to lesson: [Intro to OOP Pt. 1](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/06_class/01_object_orientation_pt1)    

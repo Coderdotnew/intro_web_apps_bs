@@ -283,13 +283,13 @@ marathon_loop(26)
 
 
 ## Challenges  
-##### [New Years Eve](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/01_loops_intro/code/01_nye)
-##### [Black Friday](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/01_loops_intro/code/02_black_friday)
-##### [Snooze](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/01_loops_intro/code/03_snooze)  
+##### [New Years Eve](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/01_loops_intro/code/01_nye)
+##### [Black Friday](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/01_loops_intro/code/02_black_friday)
+##### [Snooze](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/01_loops_intro/code/03_snooze)  
 
 ## Navigation  
-##### Next lesson: [More Loops](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/02_more_loops)      
-##### Back to: [Loops](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class)  
+##### Next lesson: [More Loops](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/02_more_loops)      
+##### Back to: [Loops](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class)  
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   
 

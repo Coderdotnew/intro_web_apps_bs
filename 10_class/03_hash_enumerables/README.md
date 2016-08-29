@@ -104,15 +104,15 @@ APIs provide data in JSON format, which is JavaScript Object Notation. Before yo
 
 
 ## Challenges    
-##### [Recipes](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/10_class/03_hash_enumerables/code/01_recipes)
-##### [Weather Alert](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/10_class/03_hash_enumerables/code/02_weather_alert)
-##### [NYC Open Data](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/10_class/03_hash_enumerables/code/03_nyc_open_data)  
+##### [Recipes](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/10_class/03_hash_enumerables/code/01_recipes)
+##### [Weather Alert](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/10_class/03_hash_enumerables/code/02_weather_alert)
+##### [NYC Open Data](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/10_class/03_hash_enumerables/code/03_nyc_open_data)  
 
 ## Navigation  
-##### Next class: [Application Build and API's](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/11_class)     
-##### Previous lesson: [Intro to Hashes](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/10_class/02_intro_to_hashes) 
+##### Next class: [Application Build and API's](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/11_class)     
+##### Previous lesson: [Intro to Hashes](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/10_class/02_intro_to_hashes) 
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   
 
 
 

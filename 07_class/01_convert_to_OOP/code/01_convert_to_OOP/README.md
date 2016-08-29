@@ -10,6 +10,6 @@ Entering `rspec` without specifying the file will return all the tests for each 
 - `rspec spec/06_caesar_cipher_spec.rb` 
 
 ## Navigation  
-##### Next lesson: [OOP Project](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/07_class/02_OOP_project)   
-##### Back to lesson: [Convert to OOP](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/07_class/01_convert_to_OOP)  
+##### Next lesson: [OOP Project](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/07_class/02_OOP_project)   
+##### Back to lesson: [Convert to OOP](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/07_class/01_convert_to_OOP)  
 

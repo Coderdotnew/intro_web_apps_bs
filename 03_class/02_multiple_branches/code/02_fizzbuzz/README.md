@@ -7,5 +7,5 @@ FizzBuzz is one of the most common programming challenges of all time. It has be
 
 
 ## Navigation  
-##### Next challenge: [Leap Year](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/02_multiple_branches/code/03_leap_year)  
-##### Back to lesson: [Multi-Branch Conditionals](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/02_multiple_branches)     
+##### Next challenge: [Leap Year](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/02_multiple_branches/code/03_leap_year)  
+##### Back to lesson: [Multi-Branch Conditionals](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/02_multiple_branches)     

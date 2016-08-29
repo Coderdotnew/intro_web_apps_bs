@@ -57,9 +57,9 @@ equation1.divide
 
 
 ## Challenge:  
-##### [Convert to OOP](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/07_class/01_convert_to_OOP/code/01_convert_to_OOP)  
+##### [Convert to OOP](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/07_class/01_convert_to_OOP/code/01_convert_to_OOP)  
 
 ## Navigation  
-##### Next lesson: [OOP Project](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/07_class/02_OOP_project)   
+##### Next lesson: [OOP Project](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/07_class/02_OOP_project)   
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   

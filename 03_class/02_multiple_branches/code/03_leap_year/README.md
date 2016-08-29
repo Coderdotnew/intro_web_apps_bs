@@ -7,5 +7,5 @@ Leap years are kind of a weird thing, but we need to make sure our programs acco
   - i.e. 1600 and 2000 are leaps years but 1300 and 1500 are NOT leap years  
 
 ## Navigation  
-##### Next lesson: [Calculator Project](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/03_calculator)  
-##### Back to lesson: [Multi-Branch Conditionals](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/02_multiple_branches)      
+##### Next lesson: [Calculator Project](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/03_calculator)  
+##### Back to lesson: [Multi-Branch Conditionals](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/02_multiple_branches)      

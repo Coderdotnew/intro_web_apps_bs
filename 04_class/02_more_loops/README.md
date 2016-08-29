@@ -150,14 +150,14 @@ for_loop
 
 
 ## Challenges  
-##### [Loopy](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/02_more_loops/code/01_loopy)
-##### [Netflix Binge](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/02_more_loops/code/02_netflix_binge)
-##### [FizzBuzz Loops](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/02_more_loops/code/03_fizzbuzz_loops)  
+##### [Loopy](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/02_more_loops/code/01_loopy)
+##### [Netflix Binge](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/02_more_loops/code/02_netflix_binge)
+##### [FizzBuzz Loops](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/02_more_loops/code/03_fizzbuzz_loops)  
 
 ## Navigation  
-##### Next lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/03_challenges)    
-##### Previous lesson: [Intro to Loops](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class/01_loops_intro)    
+##### Next lesson: [Challenges](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/03_challenges)    
+##### Previous lesson: [Intro to Loops](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class/01_loops_intro)    
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)     
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)     
 
 

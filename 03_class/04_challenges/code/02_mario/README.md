@@ -40,7 +40,7 @@ Your mission is to recreate these blocks using Ruby.
 ##### GOOD LUCK!
 
 ## Navigation  
-##### Next class: [Loops](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/04_class)    
-##### Back to: [Control Flow](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class)  
+##### Next class: [Loops](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/04_class)    
+##### Back to: [Control Flow](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class)  
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm) 
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs) 

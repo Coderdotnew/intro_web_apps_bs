@@ -187,9 +187,9 @@ json_data.to_hash
 
 
 ## Navigation  
-##### Next lesson: [Twilio Tutorial](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/11_class/03_twilio)
-##### Previous lesson: [API's](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/11_class/01_apis)   
+##### Next lesson: [Twilio Tutorial](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/11_class/03_twilio)
+##### Previous lesson: [API's](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/11_class/01_apis)   
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)   
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)   
 
 

@@ -75,13 +75,13 @@ president_qualification("United States", 34)
 
 
 ## Challenges  
-##### [Awards Season](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/02_multiple_branches/code/01_awards_season)  
-##### [FizzBuzz](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/02_multiple_branches/code/02_fizzbuzz) 
-##### [Leap Year](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/02_multiple_branches/code/03_leap_year) 
+##### [Awards Season](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/02_multiple_branches/code/01_awards_season)  
+##### [FizzBuzz](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/02_multiple_branches/code/02_fizzbuzz) 
+##### [Leap Year](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/02_multiple_branches/code/03_leap_year) 
 
 ## Navigation  
-##### Next lesson: [Calculator Project](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/03_calculator)     
-##### Previous lesson: [Conditionals](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class/01_conditionals)  
-##### Back to: [Control Flow](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/03_class)  
+##### Next lesson: [Calculator Project](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/03_calculator)     
+##### Previous lesson: [Conditionals](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class/01_conditionals)  
+##### Back to: [Control Flow](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/03_class)  
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)  

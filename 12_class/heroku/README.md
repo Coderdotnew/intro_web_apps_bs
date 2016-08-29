@@ -49,6 +49,6 @@ Your app is live on the internet! You may have noticed a strange name automatica
 Now that your Cloud9 and Github repo are linked to the Heroku servers, it is easy to push up any updates you've made to your app. Whenever you add a feature, enter the command: `git push heroku master` and you can refresh your application URL to check out the updates!  
 
 ## Navigation  
-##### Back to: [Application Build and Deploy](https://github.com/Coderdotnew/intro_web_apps_dgm/tree/master/12_class)  
+##### Back to: [Application Build and Deploy](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/12_class)  
 ---  
-[Course home](https://github.com/Coderdotnew/intro_web_apps_dgm)  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_bs)  
