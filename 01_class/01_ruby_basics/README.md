@@ -76,7 +76,7 @@ puts "goodbye"
 ``` 
 
 # return_values
-- Interestingly, in the previous example using `puts`, Ruby is not printing "return values" to the screen, but rather the interpretation of the strings we input into the program.
+- Interestingly, in the previous example using `puts`, Ruby is not printing "return values" to the screen, but rather an exact copy of the data we input into the program.
 - Huh? I know that's a bit confusing. `puts` simply repeats to us what we told it to, but didn't actually do any work behind the scenes, kind of like copy and paste.
 - But, *everything* in Ruby has a return value, so what is the return value when you use `puts`? 
 - Here's some examples:  
