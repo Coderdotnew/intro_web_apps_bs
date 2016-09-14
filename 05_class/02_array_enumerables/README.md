@@ -14,7 +14,7 @@ Let's look at an example that performs the same fuction in varying degrees of ab
 
 #### loop do = least abstract
 ```ruby
-schools = ["ASU", "UofA", "USC", "UCLA", "Stanford", "Berekeley"]
+schools = ["ASU", "UofA", "USC", "UCLA", "Stanford", "Berkeley"]
 
 schools_to_visit = schools.size # the size method returns the number of items in the array
 schools_visited = 0

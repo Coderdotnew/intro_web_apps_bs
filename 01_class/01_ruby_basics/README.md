@@ -34,7 +34,7 @@ puts 1 + 1
 #=> "hello"
 ```
 - On line 1, `puts` is a Ruby keyword so there is no error and `Hello World!` is printed to the screen.
-- One line 2, `1 + 1` is acceptable Ruby syntax so there is on error and `2` is printed to the screen.
+- One line 2, `1 + 1` is acceptable Ruby syntax so there is no error and `2` is printed to the screen.
 - On line 3, we see a literal return value expressed as a string (and displayed with the `#=>` sign). This is a literal data type because it still contains the quotes, demonstrating a literal interpretation of the data.
 
 
