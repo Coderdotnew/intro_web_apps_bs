@@ -64,7 +64,7 @@ Ruby, and all programming languages, require data for a program. Ruby accepts se
       - `0.1`   
   
 # puts
-- `puts` is an important keyword in Ruby, but are is also commonly misunderstood.  
+- `puts` is an important keyword in Ruby, but is also commonly misunderstood.  
 - `puts` cleverly stands for **put** and **s**tring or put the string to the screen. `puts` prints the data (string, integer, boolean, or float) to the screen, and adds a newline character (`\n`) at the end of the string, which tells the interpreter to move to the next line at the end of the string.  
 - Let's take a look at an example:
 
