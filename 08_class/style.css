@@ -1,0 +1,97 @@
+/* @import is used to import Google fonts, you can find a different font at https://fonts.google.com/ */
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,200,300,700,500);
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* HOMEPAGE */
+.homepage {
+    background: url("http://images.summitpost.org/original/272289.jpg") no-repeat center center fixed;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.name-header {
+    color: white;
+    text-align: center;
+    padding-top: 17%;
+    font-size: 3.5vmax;
+}
+
+.home-h1 {
+    margin: 0;
+}
+
+.home-tagline {
+    color: salmon;
+    text-align: center;
+    color: white;
+    font-size: 2vmax;
+}
+
+.home-button {
+    text-align: center;
+    padding-top: 2%;
+}
+
+button {
+    background: transparent;
+    font-family: 'Work Sans', sans-serif;
+    border: 1px solid white;
+    color: white;
+    height: 5vmax;
+    width: 20vmax;
+    font-size: 1.5vmax;
+    letter-spacing: 1px;
+}
+
+button:hover {
+    font-weight: 700;
+    border: 5px solid white;
+}
+
+/* INFO PAGE */ 
+.info-page {
+    background: white;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.about-me {
+    text-align: center;
+    font-weight: 300;
+    font-size: 1.5vmax;
+    padding-top: 15%;
+    padding-bottom: 10px;
+}
+
+hr {
+    width: 15%;
+}
+
+.bio {
+    text-align: center;
+    font-weight: 200;
+    font-size: 1.5vmax;
+}
+
+.prof-pic {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    border:1px solid black;
+    width: 75px;
+    height: 75px;
+}
