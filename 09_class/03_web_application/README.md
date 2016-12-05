@@ -283,7 +283,7 @@ end
 # forms
 As a programmer working in the backend, we would instantiate this object and call the attributes on the object directly in the class... but our users won't be working in the backend, they'll be up in the frontend! We need a way for users to input data, this is where HTML **forms** come into play.  
 
-Think about anytime you sign up or login to a web application -- you type information into a textbox or some type of input field, and then you click a button which submits this data to be processed by the controller and model. We need to add a form for our users to input their `username` and `status`
+Think about anytime you sign up or login to a web application -- you type information into a textbox or some type of input field, and then you click a button which submits this data to be processed by the controller and model. We need to add a form for our users to input their `username` and `status`. Enter the following code inside the `<div class="homepage">` inside the `index.erb` file.
 ```html
 <div class="homepage">
 
