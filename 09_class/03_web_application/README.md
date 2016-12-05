@@ -80,7 +80,7 @@ This tells us a few things:
 Let's open up our `application_controller.rb` file. This is our controller file so we know it functions similar to a command center for our entire application. When you open it, you'll see a template with some code already included, a lot of which you should recognize.  
 ```ruby
 require './config/environment'
-require './app/models/model'
+require './app/models/status'
 
 class ApplicationController < Sinatra::Base
 
@@ -111,7 +111,7 @@ This leads us to RESTful programming...
 The error message earlier told us to include a `get` method (HTTP verb) inside our `ApplicationController` class. We'll copy and paste from the error message like so:  
 ```ruby
 require './config/environment'
-require './app/models/model'
+require './app/models/status'
 
 class ApplicationController < Sinatra::Base
 
@@ -189,7 +189,7 @@ Remember, we already configured our views to be in communication with our contro
 Our controller is responsible for handling requests to get data from our views so now we need to explicitly tell our controller how to *get* this data. We are going to replace the `"Hello World"` in our *get* method to a link for our `index.erb` file.
 ```ruby
 require './config/environment'
-require './app/models/model'
+require './app/models/status'
 
 class ApplicationController < Sinatra::Base
 
@@ -318,7 +318,7 @@ Our controller is constantly *getting* and *posting* data for our users, but now
  
 ```ruby
 require './config/environment'
-require './app/models/model'
+require './app/models/status'
 
 class ApplicationController < Sinatra::Base
 
