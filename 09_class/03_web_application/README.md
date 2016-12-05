@@ -312,7 +312,7 @@ Our controller is constantly *getting* and *posting* data for our users, but now
 - The `post` method will need to be added to our controller, because we want to post data and because we defined a `"POST"` method in our HTML form. 
 - The `post` method looks very similar to the `get` method with a few differences:
   - The name of the method being used
-  - The action of this method, meaning where this data will be posted (`status.erb`)
+  - The action of this method, meaning where this data will be posted (`results.erb`)
   - Object instantiation using the parameters input by the user in the form
   - A different `erb` file to load  
  
@@ -333,7 +333,7 @@ class ApplicationController < Sinatra::Base
 
   post '/status' do 
     @status1 = Status.new(params[:username], params[:status])
-    erb :status
+    erb :results
   end
 
 end
@@ -351,9 +351,9 @@ For instance, if we instantied this in our Ruby file it might look like this:
 - However, because the user cannot instantiate an object like this with their terminal command line, they input their parameters with the forms, which are defined in the `name` input field  
 
 # calling_objects
-The new object is now stored in an instance variable. This `@` symbol allows us to pass this instance variable around our application without worrying too much about scope. We want to now call this object and it's attributes in the `status.erb` view file.  
+The new object is now stored in an instance variable. This `@` symbol allows us to pass this instance variable around our application without worrying too much about scope. We want to now call this object and it's attributes in the `results.erb` view file.  
 
-So far, our `status.erb` file is simply a template that we need to fill in.
+So far, our `results.erb` file is simply a template that we need to fill in.
 ```html
 <!DOCTYPE html>
 <html>
@@ -398,7 +398,7 @@ Our first job is to access our object in this view. This means we need the embed
   - We used a `<h1>` tag to render this data
   - An `=` sign was used in our erb syntax because we wanted to *view* the data on the browser screen
   - The `:` is outside of the erb syntax as this is being rendered as plain HTML
-  - Notice in your terminal, the `"POST"` verb is displayed anytime you submit the parameters and pass the object to be posted on the `status.erb` page!
+  - Notice in your terminal, the `"POST"` verb is displayed anytime you submit the parameters and pass the object to be posted on the `results.erb` page!
   - P.S. Don't forget to kill your server (`ctrl + c`) when you are done running your application
 
 #### You now have the knowledge and foundation to build any number of applications! Though this is a much, much simpler version, this structure is similar to how any social app might post a status!  
