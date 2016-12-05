@@ -92,7 +92,7 @@ class ApplicationController < Sinatra::Base
 end
 ```
 - As you can see, the `ApplicationController` class is already defined with a few additional code snippets included:  
-  - `environment.rb` and `model.rb` are in communication with our controller as seen by the `require` keywords (this allows data to be transferred between these files and the controller)
+  - `environment.rb` and `status.rb` are in communication with our controller as seen by the `require` keywords (this allows data to be transferred between these files and the controller)
   - `Sinatra::Base` allows the Sinatra framework to enable our app to include specific syntax and protocals which we will learn shortly
   - Laslty, I have included syntax that allows our controller to interact with the `views` directory and the `public` directory. Feel free to use this template for future controllers that you code  
 
@@ -267,7 +267,7 @@ It's best to refactor most Ruby logic into our models. Remember, you can have as
   - Two attributes, `username` and `status` should be defined upon initialization
   - The user should be able to access these attributes with an `attr_accessor`, in other words, a `reader` and `writer` method  
 
-Let's open our `model.rb` file (it's a blank one!)
+Let's open our `status.rb` file (it's a blank one!)
 ```ruby
 class Status
   attr_accessor :username, :status
