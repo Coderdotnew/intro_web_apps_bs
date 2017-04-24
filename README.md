@@ -13,6 +13,11 @@ git commit -m "any message can go here"
 git push
 git push heroku master
 ```
+
+## To rename your Heroku app from the Cloud0 Terminal:
+```
+heroku rename new-name-app
+```
 # Navigation  
 #### Go to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/01_class)
 
