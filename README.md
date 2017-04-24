@@ -1,3 +1,10 @@
+## To initialize a new application on Heroku enter the following commands in your Terminal:
+```
+wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+heroku create
+git push heroku master
+```
+
 ## Whenever you make a change to your application codebase in Cloud9, enter the following commands in your Terminal:
 ```
 git status 
