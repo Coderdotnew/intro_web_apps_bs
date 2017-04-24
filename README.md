@@ -1,6 +1,9 @@
+## Whenever you make a change to your application codebase in Cloud9, enter the following commands in your Terminal:
 ```
-wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
-heroku create
+git status 
+git add .
+git commit -m "any message can go here"
+git push
 git push heroku master
 ```
 # Navigation  
