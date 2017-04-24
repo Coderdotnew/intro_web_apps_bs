@@ -1,7 +1,8 @@
-![1](http://i.imgur.com/XrPL0Bg.gif)
----  
-# Building Web Apps with Ruby (Semester 2)
-
+```
+wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+heroku create
+git push heroku master
+```
 # Navigation  
 #### Go to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_bs/tree/master/01_class)
 
